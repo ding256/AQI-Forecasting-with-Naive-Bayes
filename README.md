@@ -1,4 +1,4 @@
-# naivebayespaper
+# AQI Forecasting with Naive Bayes
 # Title: 
 Leveraging the Naive Bayes Algorithm in Air Quality Forecasting
 
