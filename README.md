@@ -6,6 +6,8 @@ Leveraging the Naive Bayes Algorithm in Air Quality Forecasting
 How effective is the Naive Bayes algorithm in forecasting air quality?
 
 # Project Overview:
+Diverged from the conventional usage of Naive Bayes as a classification tool, I wanted to pioneer its application in the realm of predictive modeling, thereby pushing the boundaries of its traditional scope and testing its viability and effectiveness as a tool for forecasting AQI of the subsequent day.
+
 This individual research initiative, conducted between January and August 2018, emerged from a deep concern for the persistent air quality issues in Beijing, China. The region faced severe air pollution challenges due to the proximity of numerous factories and extensive industrial activities. The dire state of air quality, with AQI consistently exceeding 250 and prolonged periods without seeing sunlight, had profound impacts on the well-being of the population.
 
 Motivated by the desire to contribute to addressing this critical issue, this research project sought to merge expertise in computer science with the goal of developing an effective air quality index (AQI) forecasting system. At the time, no dedicated AQI forecasters were available, with weather forecasting being the only prevalent practice.
